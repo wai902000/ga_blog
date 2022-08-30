@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to C!"
-date:   2022-08-30 20:32:17 +0800
+date:   2022-08-30 21:32:17 +0800
 categories: jekyll update
 ---
 Hello C

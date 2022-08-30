@@ -13,6 +13,9 @@ This is the final product.
 
 <https://editor.p5js.org/Silvia312488492/sketches/ZmEKpJ7Bc>
 
+Reference Link:
+<https://ruthsinger.com/2019/10/14/creative-colouring-patchwork-patterns-book/#jp-carousel-33896>
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

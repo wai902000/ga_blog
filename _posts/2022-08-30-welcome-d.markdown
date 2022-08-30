@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to d!"
-date:   2022-08-30 20:32:17 +0800
+date:   2022-08-30 22:32:17 +0800
 categories: jekyll update
 ---
 Hello D

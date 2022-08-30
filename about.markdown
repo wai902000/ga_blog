@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-About Hello
+About Hello, this is my blog!
 
 
 [jekyll-organization]: https://github.com/jekyll

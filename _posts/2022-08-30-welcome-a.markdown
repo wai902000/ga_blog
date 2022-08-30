@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 This is one of the P5 JS I practiced, 1. I used the font Gemini Moon to create Rmit Creative Coding. The font style is lively, funny and cute, which can represent the meaning of creative thinking. 2. As for the background picture, it looks like the shape of DNA. The colors are yellow, green and blue. Green and yellow represent ambition, while blue represents sadness. Are two extremes, which means that creative ideas can have two different outcomes. 
 
-<iframe src="https://editor.p5js.org/Silvia312488492/full/uh9ttSKsZ" width="100%" height="300"></iframe>
+<iframe src="https://editor.p5js.org/Silvia312488492/full/uh9ttSKsZ" width="100%" height="400"></iframe>
 
 <https://editor.p5js.org/Silvia312488492/sketches/uh9ttSKsZ>
 

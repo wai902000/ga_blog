@@ -4,9 +4,12 @@ title:  "Welcome to B!"
 date:   2022-08-30 19:32:17 +0800
 categories: jekyll update
 ---
-Hello B
+This is the final product.
+1. This is my favorite work because the font is more formal. I use the font Gabriola.TTf, which is very similar to the font of the article.
+2. The design of the background picture is large and consists of three colors. It is made up of the letter O, like a series of creative ideas woven together to form a final work.
+3. It's more like a progression, from yellow to blue, representing light to dark, and also representing the progress of the work -- start to finish. 
 
-<iframe src="https://editor.p5js.org/Silvia312488492/full/ZmEKpJ7Bc" width="100%" height="500"></iframe>
+<iframe src="https://editor.p5js.org/Silvia312488492/full/ZmEKpJ7Bc" width="100%" height="400"></iframe>
 
 <https://editor.p5js.org/Silvia312488492/sketches/ZmEKpJ7Bc>
 

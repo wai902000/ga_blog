@@ -6,8 +6,6 @@ categories: jekyll update
 ---
   
    <script src="mouseEffect.js"></script>
-
-    <script src="index.js"></script>
     
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

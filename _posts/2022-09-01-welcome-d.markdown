@@ -4,12 +4,11 @@ title:  "Welcome to D!"
 date:   2022-09-01 22:32:17 +0800
 categories: jekyll update
 ---
-  
-<button onclick="document.getElementById('myImage').src='onlx.jpg'">On</button>
+<h2>JavaScript change text</h2>
 
-<img id="myImage" border="0" src="offlx.jpg" style="text-align:center;">
+<p id="demo">JavaScript change text<</p>
 
-<button onclick="document.getElementById('myImage').src='offlx.jpg'">Off</button>
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>click me！</button>
 
     
 

@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h2>JavaScript change text</h2>
 
-<p id="demo">JavaScript change text<</p>
+<p id="demo">JavaScript change text</p>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>click me！</button>
 

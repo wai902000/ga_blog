@@ -5,9 +5,8 @@ date:   2022-09-01 21:32:17 +0800
 categories: jekyll update
 ---
   
-       <script src="mouseEffect.js"></script>
-       
-    <div id="canvasContainer"></div>
+   <script src="mouseEffect.js"></script>
+
     <script src="index.js"></script>
     
 

@@ -5,7 +5,7 @@ date:   2022-09-01 21:32:17 +0800
 categories: jekyll update
 ---
   
-  <script src="mouseEffect.js"></script>
+<script src="mouseEffect.js"></script>
     
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

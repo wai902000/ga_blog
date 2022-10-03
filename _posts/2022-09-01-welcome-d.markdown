@@ -5,7 +5,12 @@ date:   2022-09-01 22:32:17 +0800
 categories: jekyll update
 ---
   
-123
+<button onclick="document.getElementById('myImage').src='http://static.codebaoku.com/images/eg_bulbon.gif'">开灯</button>
+
+<img id="myImage" border="0" src="http://static.codebaoku.com/images/eg_bulboff.gif" style="text-align:center;">
+
+<button onclick="document.getElementById('myImage').src='http://static.codebaoku.com/images/eg_bulboff.gif'">关灯</button>
+
     
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

@@ -6,6 +6,9 @@ categories: jekyll update
 ---
   
        <script src="mouseEffect.js"></script>
+       
+    <div id="canvasContainer"></div>
+    <script src="index.js"></script>
     
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

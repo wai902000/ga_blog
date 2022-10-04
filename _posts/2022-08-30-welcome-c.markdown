@@ -139,6 +139,7 @@ function clickEffect() {
     }
   }
   clickEffect();
+  //TEST
 </script>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

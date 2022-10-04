@@ -144,7 +144,7 @@ function clickEffect() {
     
 123
     BHJBJDHWE
-    HEDKJHKJ
+    <b>HEDKJHKJ</b>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

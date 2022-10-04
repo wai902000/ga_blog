@@ -4,8 +4,6 @@ title:  "Welcome to C!"
 date:   2022-08-30 21:32:17 +0800
 categories: jekyll update
 ---
-
-<p>123</p>
 <script>
 function clickEffect() {
     let balls = [];
@@ -143,6 +141,8 @@ function clickEffect() {
   clickEffect();
   //TEST
 </script>
+    
+    <p>123</p>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

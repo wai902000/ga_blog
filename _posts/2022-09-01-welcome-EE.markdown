@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to C!"
+title:  "Welcome to CCE!"
 date:   2022-08-30 21:32:17 +0800
 categories: jekyll update
 ---

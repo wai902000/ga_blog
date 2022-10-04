@@ -5,37 +5,17 @@ date:   2022-08-30 19:32:17 +0800
 categories: jekyll update
 ---
 <script>
- // this variable will hold our shader object
- let theShader;
- // this variable will hold our webcam video
- let cam;
 
- function preload(){
-   // load the shader
-   theShader = loadShader('assets/webcam.vert', 'assets/webcam.frag');
- }
+function setup() {
+  createCanvas(displayWidth, displayHeight);
+  strokeWeight(10);
+  stroke(0);
+}
 
- function setup() {
-   // shaders require WEBGL mode to work
-   createCanvas(710, 400, WEBGL);
-   noStroke();
-
-   cam = createCapture(VIDEO);
-   cam.size(710, 400);
-
-   cam.hide();
- }
-
- function draw() {
-   // shader() sets the active shader with our shader
-   shader(theShader);
-
-   // passing cam as a texture
-   theShader.setUniform('tex0', cam);
-
-   // rect gives us some geometry on the screen
-   rect(0,0,width,height);
- }
+function touchMoved() {
+  line(mouseX, mouseY, pmouseX, pmouseY);
+  return false;
+}
 </script>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

@@ -14,6 +14,4 @@ categories: jekyll update
 2. 54324545
 3. 435345543
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
